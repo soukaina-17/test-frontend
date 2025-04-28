@@ -35,13 +35,13 @@ Créer une base de données MySQL (nom et identifiants à vérifier dans le fich
   
 5. Démarrer les projets :
 
-Backend :
+   - Backend :
 
-yarn start
+         yarn start
 
-Frontend :
+  - Frontend :
 
-yarn dev
+        yarn dev
 
 ## Fonctionnalités développées
 Backend
