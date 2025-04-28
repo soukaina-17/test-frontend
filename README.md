@@ -1,14 +1,14 @@
 HDM Todo List - Test Technique
-Présentation
+## Présentation
 Ce projet est une application Todo List composée :
 
-d'un frontend en React + Vite + TypeScript,
+- d'un frontend en React + Vite + TypeScript,
 
-d'un backend en NestJS,
+- d'un backend en NestJS,
 
-avec une base de données MySQL.
+- avec une base de données MySQL.
 
-## L’objectif était de compléter certaines fonctionnalités côté frontend et backend.
+L’objectif était de compléter certaines fonctionnalités côté frontend et backend.
 
 Installation et mise en route
 Prérequis
@@ -24,12 +24,12 @@ Cloner les deux dépôts (frontend et backend) depuis mon GitHub.
 - bash
 - Copier
 - Modifier
-yarn install
-Configurer la base de données :
+- yarn install
+- Configurer la base de données :
 
-Créer une base de données MySQL (nom et identifiants à vérifier dans le fichier .env du backend).
+## Créer une base de données MySQL (nom et identifiants à vérifier dans le fichier .env du backend).
 
-***********Lancer les migrations Prisma pour créer les tables :
+Lancer les migrations Prisma pour créer les tables :
 
 bash
 Copier
