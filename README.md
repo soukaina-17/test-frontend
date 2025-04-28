@@ -10,16 +10,16 @@ Ce projet est une application Todo List composée :
 
 L’objectif était de compléter certaines fonctionnalités côté frontend et backend.
 
-Installation et mise en route
+## Installation et mise en route
 Prérequis
-Node.js et Yarn installés
-Docker (optionnel pour MySQL)
-MySQL 5.7 fonctionnel sur la machine locale
+- Node.js et Yarn installés
+- Docker (optionnel pour MySQL)
+- MySQL 5.7 fonctionnel sur la machine locale
 
-Étapes d'installation
-Cloner les deux dépôts (frontend et backend) depuis mon GitHub.
+## Étapes d'installation
+1. Cloner les deux dépôts (frontend et backend) depuis mon GitHub.
 
-## Installer les dépendances dans chaque projet :
+2. Installer les dépendances dans chaque projet :
 
 - bash
 - Copier
