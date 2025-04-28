@@ -8,7 +8,7 @@ d'un backend en NestJS,
 
 avec une base de données MySQL.
 
-##L’objectif était de compléter certaines fonctionnalités côté frontend et backend.
+## L’objectif était de compléter certaines fonctionnalités côté frontend et backend.
 
 Installation et mise en route
 Prérequis
