@@ -72,8 +72,8 @@ Frontend
 
 ## Bonus (Non réalisé / À réaliser si temps supplémentaire)
 
-   1.Ajouter une fonctionnalité de marquage d'une tâche comme "complétée"
+   - Ajouter une fonctionnalité de marquage d'une tâche comme "complétée"
    
-   2.Ajout d'une pagination pour la liste des tâches.
+   - Ajout d'une pagination pour la liste des tâches.
    
-   3.Gestion des erreurs serveur avec une meilleure UX (messages utilisateurs, etc.).
+   - Gestion des erreurs serveur avec une meilleure UX (messages utilisateurs, etc.).
