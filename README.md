@@ -21,8 +21,8 @@ Prérequis
 
 2. Installer les dépendances dans chaque projet :
 
-- bash
-- yarn install
+       bash
+       yarn install
   
 3. Configurer la base de données :
 
@@ -30,8 +30,8 @@ Créer une base de données MySQL (nom et identifiants à vérifier dans le fich
 
 4. Lancer les migrations Prisma pour créer les tables :
 
-     - bash
-     - yarn prisma:migrate
+       bash
+       yarn prisma:migrate
   
 5. Démarrer les projets :
 
