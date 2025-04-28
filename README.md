@@ -19,11 +19,11 @@ MySQL 5.7 fonctionnel sur la machine locale
 Étapes d'installation
 Cloner les deux dépôts (frontend et backend) depuis mon GitHub.
 
-**********Installer les dépendances dans chaque projet :
+## Installer les dépendances dans chaque projet :
 
-bash
-Copier
-Modifier
+- bash
+- Copier
+- Modifier
 yarn install
 Configurer la base de données :
 
