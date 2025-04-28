@@ -61,7 +61,7 @@ Frontend
 
 
 ## Difficultés rencontrées
- - Problèmes initiaux de connexion entre le frontend et le backend (résolus en corrigeant l'URL de base dans useFetch).
+
 - Problèmes de typage TypeScript sur le backend (corrigés en ajustant les Dto et les paramètres attendus par les UseCases).
 - Correction d'une erreur où tasks.map échouait car la réponse de l'API n'était pas un tableau → Correction faite en forçant setTasks à recevoir un tableau.
 
