@@ -39,9 +39,9 @@ Créer une base de données MySQL (nom et identifiants à vérifier dans le fich
 
          yarn start
 
-  - Frontend :
+   - Frontend :
 
-        yarn dev
+         yarn dev
 
 ## Fonctionnalités développées
 Backend
