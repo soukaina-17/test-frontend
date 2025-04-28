@@ -58,10 +58,7 @@ Frontend
  - Édition d'une tâche (bouton "Edit", modification du texte, bouton de sauvegarde).
  - Suppression d'une tâche (bouton corbeille).
 
-## Gestion des états: 
 
- - Utilisation de useState et useEffect pour gérer les données.
- - Appels API centralisés via un hook personnalisé useFetch.
 
 ## Difficultés rencontrées
  - Problèmes initiaux de connexion entre le frontend et le backend (résolus en corrigeant l'URL de base dans useFetch).
@@ -70,10 +67,8 @@ Frontend
 
 ## Choix techniques
 
-- Utilisation de TypeScript pour renforcer la robustesse du code et limiter les erreurs de typage.
-- Utilisation de Prisma ORM pour simplifier la manipulation de la base de données.
 - Utilisation de Vite pour accélérer le développement frontend avec React.
-- Utilisation de Material UI pour un design rapide et professionnel des composants.
+
 
 ## Bonus (Non réalisé / À réaliser si temps supplémentaire)
    1.Ajouter une fonctionnalité de marquage d'une tâche comme "complétée"
