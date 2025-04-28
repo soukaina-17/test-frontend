@@ -35,7 +35,7 @@ Créer une base de données MySQL (nom et identifiants à vérifier dans le fich
     npx prisma migrate dev --create-only
     npx prisma migrate dev
 
-
+---------------------------------------
 
 
        bash
