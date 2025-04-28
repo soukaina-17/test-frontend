@@ -30,7 +30,13 @@ Prérequis
 
 Créer une base de données MySQL (nom et identifiants à vérifier dans le fichier .env du backend).
 
-4. Lancer les migrations Prisma pour créer les tables :
+4.Migration de la base de données
+    
+    npx prisma migrate dev --create-only
+    npx prisma migrate dev
+
+
+
 
        bash
        yarn prisma:migrate
