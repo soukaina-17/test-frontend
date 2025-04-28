@@ -1,4 +1,6 @@
-HDM Todo List - Test Technique
+------------------------------------------------------------
+  HDM Todo List - Test Technique
+-------------------------------------------------------------
 ## Présentation
 Ce projet est une application Todo List composée :
 
